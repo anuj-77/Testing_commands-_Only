@@ -6,3 +6,7 @@ let printName =(age,name1)=>{
 }
 
 printName(age,name1);
+
+function newFn(){
+    console.log("This is the new function.")
+}
